@@ -244,10 +244,6 @@ footer .footer-links a:hover {
     text-align: center;
   }
 
-    .hero{
-    margin-top: 230px;
-  }
-
   .hero-text-container,
   .hero-pera-container {
     width: 100%;
@@ -291,6 +287,10 @@ footer .footer-links a:hover {
 
   .hero-info {
     padding-top: 80px;
+  }
+
+    .hero{
+    margin-top: 230px;
   }
 
   .tag-line {
